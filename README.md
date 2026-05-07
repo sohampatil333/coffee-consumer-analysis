@@ -1,4 +1,5 @@
 # ☕ Coffee Consumer Analysis
+<img width="1983" height="793" alt="1ef44ca1-524f-4ded-bc88-32c7e9e924b7" src="https://github.com/user-attachments/assets/c7220aa4-af07-41ca-90dc-f8944012c5b1" />
 
 ## 📌 Overview
 This project focuses on strategic consumer segmentation and behavioral analysis within the coffee industry.
